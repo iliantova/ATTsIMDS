@@ -7,7 +7,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Support.UI;
 
-namespace CodedUITestProject1
+namespace IISDA_Test_cases
 {
     [TestFixture]
     public class Common

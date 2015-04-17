@@ -18,10 +18,10 @@ namespace IISDA_Test_cases
         {
             // To generate code for this test, select "Generate Code" from 
             // the shortcut menu and select one of the menu items.
-            New_user New_user = new New_user();
-            New_user.SetupTest();
-            New_user.New_userSetUpTest();
-            New_user.TeardownTest();
+            New_user newUser = new New_user();
+            newUser.SetupTest();
+            newUser.New_userSetUpTest();
+            newUser.TeardownTest();
             /* }
              [Microsoft.VisualStudio.TestTools.UnitTesting.TestCategory("Priority1"), Microsoft.VisualStudio.TestTools.UnitTesting.TestMethod]
              public void CodedUITestMethod2()

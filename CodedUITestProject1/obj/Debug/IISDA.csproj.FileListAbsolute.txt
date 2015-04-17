@@ -19,3 +19,13 @@ C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDr
 C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\IISDA.csprojResolveAssemblyReference.cache
 C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
 C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\nunit.framework.dll
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\WebDriver.dll
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\WebDriver.Support.dll
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\nunit.framework.xml
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\WebDriver.xml
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\WebDriver.Support.xml
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

@@ -1,0 +1,21 @@
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\nunit.framework.dll
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.dll
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.Support.dll
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\nunit.framework.xml
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.xml
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.Support.xml
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+c:\users\t.tsvetkov\documents\visual studio 2013\Projects\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\nunit.framework.dll
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.dll
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.Support.dll
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\nunit.framework.xml
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.xml
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\bin\Debug\WebDriver.Support.xml
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\IISDA.csprojResolveAssemblyReference.cache
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\mzhekov\Desktop\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

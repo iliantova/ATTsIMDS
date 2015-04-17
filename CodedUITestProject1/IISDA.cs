@@ -18,7 +18,7 @@ namespace IISDA_Test_cases
         {
             // To generate code for this test, select "Generate Code" from 
             // the shortcut menu and select one of the menu items.
-            New_user newUser = new New_user();
+            New_user2 newUser = new New_user2();
             newUser.SetupTest();
             newUser.New_userSetUpTest();
             newUser.TeardownTest();

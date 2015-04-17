@@ -29,3 +29,4 @@ D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\WebDriver.xml
 D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\bin\Debug\WebDriver.Support.xml
 D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
 D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+D:\ATTsIIMDS\ATTsIMDS\CodedUITestProject1\obj\Debug\IISDA.csprojResolveAssemblyReference.cache

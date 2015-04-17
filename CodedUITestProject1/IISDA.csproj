@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Common.cs" />
     <Compile Include="IISDA.cs" />
+    <Compile Include="Input.cs" />
     <Compile Include="New user.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
